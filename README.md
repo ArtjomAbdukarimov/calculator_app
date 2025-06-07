@@ -1,16 +1,24 @@
-# calculator_app
+# 📱 iPhone-style Calculator (Flutter)
 
-simple calculator app
+Простое калькуляторное приложение, стилизованное под интерфейс iPhone.  
+Реализовано на Flutter с нуля, с экранной клавиатурой, поддержкой дробей и базовых операций.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Скриншот
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/preview.png" alt="Превью калькулятора" width="300"/>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Возможности
+
+- Ввод чисел через экранные кнопки
+- Поддержка операций: `+`, `–`, `×`, `÷`
+- Поддержка десятичных чисел
+- Очистка (AC), удаление символов (⌫)
+- Вывод результата по нажатию `=`
+- Темная тема, похожая на оригинальный калькулятор iOS
+
+---
+
